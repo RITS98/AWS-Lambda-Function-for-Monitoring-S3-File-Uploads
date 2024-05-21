@@ -33,4 +33,9 @@ Lambda, Amazon S3, event-driven architecture, and basic logging practices.
 ### Test Results
 
 1. Uploaded file less than 100 MB
+![image](https://github.com/RITS98/AWS-Lambda-Function-for-Monitoring-S3-File-Uploads/assets/51791113/bbebcf65-3da1-45a8-9e04-fd298fb2b6fc)
+
+2. Uploaded file greater than 100MB
+   ![image](https://github.com/RITS98/AWS-Lambda-Function-for-Monitoring-S3-File-Uploads/assets/51791113/99b750a3-7dc1-4008-8b14-7dac1701a5d5)
+
 
