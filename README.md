@@ -31,3 +31,6 @@ Lambda, Amazon S3, event-driven architecture, and basic logging practices.
 
 
 ### Test Results
+
+1. Uploaded file less than 100 MB
+
